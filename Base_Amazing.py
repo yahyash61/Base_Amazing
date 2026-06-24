@@ -20,5 +20,4 @@ contract HelloBase {
     function getGreeting() public view returns (string memory) {
         return greeting;
     }A very strong and promising project.
-////////////
-........
+??????????
