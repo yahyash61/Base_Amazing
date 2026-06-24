@@ -21,4 +21,4 @@ contract HelloBase {
         return greeting;
     }A very strong and promising project.
 }..................
-Safe Project
+I am new to this platform.
