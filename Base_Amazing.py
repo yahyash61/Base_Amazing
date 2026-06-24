@@ -22,3 +22,4 @@ contract HelloBase {
     }A very strong and promising project.
 }..................
 perfect Project
+amazing
